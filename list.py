@@ -1,6 +1,6 @@
 
 
-# import random
+# import random only for comprehension list
 
 
 # creating a standard list
@@ -30,3 +30,4 @@ if found == True:
 
 else:
     print("Not found data item")
+
